@@ -1,2 +1,1 @@
-# supermarket-sales-dashboard-myanmar
-.
+dashboard de datos de un supermercado
